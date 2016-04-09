@@ -180,6 +180,7 @@ int main()
                 seguir ='n';
                 printf("\nSesion Finalizada\n");
                 printf("\n- GRACIAS POR UTILIZAR TP1_CALCULADORA -\n\n");
+                system("pause");
 
                 break;
         }
