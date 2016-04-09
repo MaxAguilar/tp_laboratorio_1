@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1459040445 source:d:\users\max\desktop\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1459039159 source:d:\users\max\desktop\calculadora\desarrollo.c
+
+1459039179 d:\users\max\desktop\calculadora\prototipos.h
+
+1460161761 source:d:\users\max\desktop\programacion  - laboratorio 1 - aguilar max\calculadora\desarrollo.c
+
+1460162854 source:d:\users\max\desktop\programacion  - laboratorio 1 - aguilar max\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"prototipos.h"
+
+1460161710 d:\users\max\desktop\programacion  - laboratorio 1 - aguilar max\calculadora\prototipos.h
+
+1460161761 source:d:\users\max\desktop\programacion  - laboratorio 1 - aguilar max\tp1 calculadora\desarrollo.c
+
+1460162854 source:d:\users\max\desktop\programacion  - laboratorio 1 - aguilar max\tp1 calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"prototipos.h"
+
+1460161710 d:\users\max\desktop\programacion  - laboratorio 1 - aguilar max\tp1 calculadora\prototipos.h
+
