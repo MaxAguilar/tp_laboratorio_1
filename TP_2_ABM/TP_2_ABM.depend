@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1461983341 source:d:\users\max\desktop\tp_2_abm\desarrollo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"prototipos.h"
+
+1461976469 d:\users\max\desktop\tp_2_abm\prototipos.h
+
+1461981077 source:d:\users\max\desktop\tp_2_abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"prototipos.h"
+
